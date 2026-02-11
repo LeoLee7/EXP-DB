@@ -71,7 +71,7 @@ The extraction uses **6 independent dimensions** (a single review phrase can bel
 | **Audience-Enjoyment** | Who enjoys eating (not cooking) | kids, husband, grandmother, guests, whole family |
 | **Cuisine-Type** | Cuisine style/origin | Italian, Chinese, Southern, Mexican, fusion, homestyle |
 
-### Key Features:
+### Rules:
 - **Multi-category assignment**: A phrase like "tender, delicious chicken" extracts to both Texture (tender) and Taste (delicious)
 - **Normalization allowed**: "My hubby loved it" → "husband loved it"
 - **Sentiment tracking**: Each attribute is tagged as positive, negative, or neutral
